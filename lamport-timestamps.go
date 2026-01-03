@@ -1,5 +1,5 @@
 // *Summary: Lamport Timestamps are a logical clock that can be used to order events in a distributed system.
-// *Ideally in production environment, you would want to use a message bus to handle this, but we just mimic this behaviour here.
+// *Ideally in production environment, you would want to include this in the request metadata from any service to handle this, but we just mimic this behaviour here.
 package main
 
 import (
